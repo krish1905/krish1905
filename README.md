@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krish</h1>
 <h3 align="center">Software Engineering Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krish1905&label=Profile%20views&color=0e75b6&style=flat" alt="krish1905" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krish1905" alt="krish1905" /></a> </p>
-
 - 📫 How to reach me **krishgarg19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
