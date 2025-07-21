@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krish</h1>
-<h3 align="center">Statistics Student @ University of Waterloo</h3>
+<h3 align="center">Math + CS @ University of Waterloo</h3>
 
 - 📫 How to reach me **krishgarg19@gmail.com**
 
